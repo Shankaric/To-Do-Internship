@@ -108,4 +108,4 @@ Main resource page - https://www.w3schools.com/html/default.asp
 > 2. Create a design that given in the image below using bootstrap  
 ![](https://themes.getbootstrap.com/wp-content/uploads/2021/01/Geeks-Bootstrap-5-Template-2-1200x900.jpg)
 > 3. Make sure to commit your changes with proper commit messages
-> 4. Make sure to push/sync changes to Github
+> 4. Make sure to push/sync changes to GitHub
