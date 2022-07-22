@@ -109,3 +109,11 @@ Main resource page - https://www.w3schools.com/html/default.asp
 ![](https://themes.getbootstrap.com/wp-content/uploads/2021/01/Geeks-Bootstrap-5-Template-2-1200x900.jpg)
 > 3. Make sure to commit your changes with proper commit messages
 > 4. Make sure to push/sync changes to Github
+
+## Task 6 - 22/07/2022 - Bootstrap-Excercises
+
+> 1. Create an another folder in the Internship-Hilifeai repo
+> 2. Create a design that given in the image below using bootstrap  
+![](https://xdresources.co/media/pages/resources/admin-dashboard-template/270507406-1632888335/admin-dashboard-template-free-download-800x600-crop-1-q90.jpg)
+> 3. Make sure to commit your changes with proper commit messages
+> 4. Make sure to push/sync changes to Github
